@@ -1,4 +1,4 @@
-:heart:
-:cloud:
-:sun:
-:sparkle:
+- :heart:
+- :cloud:
+- :sun:
+- :sparkle:
