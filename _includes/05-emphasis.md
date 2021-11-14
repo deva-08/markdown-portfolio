@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+** GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time.**
